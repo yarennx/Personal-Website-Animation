@@ -5,4 +5,4 @@
 <p>Ekran Gifi Eklendi</p>
 
 
-<img src="img/personalws.gif>
+<img src="/img/personalws.gif">
